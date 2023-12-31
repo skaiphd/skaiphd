@@ -1,4 +1,4 @@
-![logo](https://github.com/skaiphd/skaiphd/blob/main/ds_ds.png)
+![logo](https://github.com/skaiphd/skaiphd/blob/main/ds001)1.png
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">A highly skilled and dedicated data scientist, possessing a Doctorate in Engineering, demonstrates a remarkable ability to conceptualize, create, and implement extensive data science solutions tailored to diverse industry needs.</h3>
 
