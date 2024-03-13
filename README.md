@@ -4,10 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="skaiphd" /> </p>
 
-- 📝 I regularly write articles on [https://skphd.substack.com/](https://skphd.substack.com/)
-
 - 💬 Ask me about **Machine Learning|Deep Learning|NLP|GenAI|LLMs**
-
+- 📝 I regularly write articles on [https://skphd.substack.com/](https://skphd.substack.com/)
 - 📫 How to reach me **sanjaykumarphd@outlook.coom**
 
 <h3 align="left">Connect with me:</h3>
