@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="skaiphd" /> </p>
 
-- 💬 Ask me about **Machine Learning|Deep Learning|NLP|GenAI|LLMs**
+- 💬 Ask me about **Machine Learning| Deep Learning | NLP |Times Series| GenAI |LLMs**
 - 📝 I regularly write articles on [https://skphd.substack.com/](https://skphd.substack.com/)
 - 📫 How to reach me **sanjaykumarphd@outlook.coom**
 
