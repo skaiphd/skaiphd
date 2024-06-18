@@ -11,10 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="skaiphd Profile Views" />
 </h1>
 
-
-<h1 align="left">[![Twitter](https://img.shields.io/twitter/follow/skaiphd?style=social)](https://twitter.com/skaiphd)</h1>
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="skaiphd" /> </h1>
-
 - 💬 Ask me about **Machine Learning | Deep Learning | NLP | Times Series | GenAI |LLMs**
 - 📝 I regularly write articles on [https://skphd.substack.com/](https://skphd.substack.com/)
 - 📫 How to reach me **sanjaykumarphd@outlook.coom**
