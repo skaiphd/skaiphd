@@ -1,7 +1,17 @@
 ![logo](https://github.com/skaiphd/skaiphd/blob/main/Datascience_hub.PNG)
 
 <h1 align="center">Hi, I'm Sanjay Kumar </h1>
-<h3 align="center">A highly skilled and dedicated data scientist, possessing a Doctorate in Engineering, demonstrates a remarkable ability to conceptualize, create, and implement extensive data science solutions tailored to diverse industry needs.</h3>
+<h3 align="center">A highly skilled and dedicated data scientist, possessing a Doctorate in Engineering, demonstrates a remarkable ability to conceptualize, create, and implement extensive data science solutions tailored to diverse industry needs.</h3>]
+<h1 align="left">
+    <a href="https://twitter.com/skaiphd">
+        <img src="https://img.shields.io/twitter/follow/skaiphd?style=social" alt="Twitter Follow" />
+    </a>
+</h1>
+<h1 align="left">
+    <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="skaiphd Profile Views" />
+</h1>
+
+
 <h1 align="left">[![Twitter](https://img.shields.io/twitter/follow/skaiphd?style=social)](https://twitter.com/skaiphd)</h1>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="skaiphd" /> </h1>
 
