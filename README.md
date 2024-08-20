@@ -108,32 +108,8 @@
 
 ---
 
-### 🌍 My Location
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-77.4286, 39.0481],
-              [-77.2085, 39.0481],
-              [-77.2085, 38.9343],
-              [-77.4286, 38.9343],
-              [-77.4286, 39.0481]
-          ]
-        ]
-      }
-    }
-  ]
-}
+### 🧩 Skill Graph
+```mermaid
 graph TD;
     Data-Scientist-->Flask;
     Data-Scientist-->Django;
@@ -145,6 +121,4 @@ graph TD;
     Data-Scientist-->Spark;
     Data-Scientist-->NLP;
     Data-Scientist-->Computer_Vision;
-
-
 
