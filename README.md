@@ -54,6 +54,11 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
 
+<h2 align="left">My Location:</h2>
+<p align="left">
+    <img align="center" src="https://www.mapquestapi.com/staticmap/v5/map?key=YOUR_API_KEY&center=39.0481,-77.4286&size=400,300@2x" alt="My Location Map" />
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaiphd&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skaiphd&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skaiphd&" alt="GitHub Streak" /></p>
