@@ -21,10 +21,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-    <a href="https://twitter.com/skaiphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/skphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://kaggle.com/ds00000007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-    <a href="https://medium.com/@skphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+    <a href="https://twitter.com/skaiphd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/skphd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://kaggle.com/ds00000007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+    <a href="https://medium.com/@skphd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
 <!-- Graph -->
@@ -33,7 +33,7 @@
 <!-- Skill and More Information -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=skaiphd&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Sanjay Kumar's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaiphd&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaiphd&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Top Languages" />
 </div> 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -59,7 +59,20 @@
     <img align="center" src="https://www.mapquestapi.com/staticmap/v5/map?key=YOUR_API_KEY&center=39.0481,-77.4286&size=400,300@2x" alt="My Location Map" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaiphd&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skaiphd&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skaiphd&" alt="GitHub Streak" /></p>
+<!-- Skill Graph -->
+<h2 align="left">Skill Graph:</h2>
+
+```mermaid
+graph TD;
+    Data-Scientist-->Flask;
+    Data-Scientist-->Django;
+    Data-Scientist-->PyTorch;
+    Data-Scientist-->Machine_Learning;
+    Data-Scientist-->Deep_Learning;
+    Data-Scientist-->Tensorflow;
+    Data-Scientist-->Streamlit;
+    Data-Scientist-->Spark;
+    Data-Scientist-->NLP;
+    Data-Scientist-->Computer_Vision;
+
 
