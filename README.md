@@ -10,6 +10,11 @@
     <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="left">
+    <b>Visitors Count:</b>
+    <img align="center" src="https://profile-counter.glitch.me/{skaiphd}/count.svg" alt="Visitor Counter" />
+</p>
+
 - 💬 Ask me about **Machine Learning | Deep Learning | NLP | Time Series | GenAI | LLMs**
 - 📝 I regularly write articles on [https://skphd.substack.com/](https://skphd.substack.com/)
 - 📫 Reach me at **sanjaykumarphd@outlook.com**
