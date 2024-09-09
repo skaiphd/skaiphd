@@ -7,7 +7,6 @@
         <img src="https://img.shields.io/twitter/follow/skaiphd?style=social" alt="Twitter Follow" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
-    <img src="https://profile-counter.glitch.me/{skaiphd}/count.svg" alt="Visitor Counter" />
 </p>
 
 <p align="center">
