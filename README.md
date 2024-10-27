@@ -16,6 +16,8 @@
 ---
 
 ### 💡 About Me
+- 🧠 An accomplished AI/ML product leader with 14 years of experience in developing machine learning products, including generative AI, AutoML, computer vision, and natural language processing (NLP).
+- ✍️ Possesses extensive research expertise in machine learning, demonstrated by over 100+ Google Scholar citations and 16 publications.
 - 🧠 Expertise in **Machine Learning | Deep Learning | NLP | Time Series | GenAI | LLMs**
 - ✍️ Writing at [Substack](https://skphd.substack.com/) about data science trends and innovations.
 - 📬 Reach me at **[sanjaykumarphd@outlook.com](mailto:sanjaykumarphd@outlook.com)**
