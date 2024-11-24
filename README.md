@@ -1,4 +1,4 @@
------![logo](https://github.com/skaiphd/skaiphd/blob/main/Datascience_hub.PNG)
+###-----![logo](https://github.com/skaiphd/skaiphd/blob/main/Datascience_hub.PNG)
 <h1 align="center">Sanjay Kumar PhD</h1>
 <h3 align="center">🎓 Data Scientist | 📊 PhD in Engineering | 💻 Innovator in Data Science Solutions</h3>
 
