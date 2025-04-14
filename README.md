@@ -1,6 +1,6 @@
 ![logo](https://github.com/skaiphd/skaiphd/blob/main/Datascience_hub.PNG)
 <h1 align="center">Sanjay Kumar PhD</h1>
-<h3 align="center">🎓 Data Scientist | 📊 PhD in Engineering | 💻 Innovator in Data Science Solutions</h3>
+<h3 align="center"> Technical Product Manager |🎓Former Data Scientist | 📊 PhD in Engineering | 💻 Innovator in Data Science Solutions</h3>
 
 <p align="center">
     <a href="https://twitter.com/skaiphd" target="_blank">
