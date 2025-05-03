@@ -5,11 +5,7 @@
         <img src="https://img.shields.io/twitter/follow/skaiphd?style=social" alt="Twitter Follow" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=skaiphd&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
 
-<p align="center">
-    <img src="https://github.com/skaiphd/skaiphd/blob/main/image_1.png" alt="Banner"/>
-</p>
 
 <p align="center"><em>Transforming Data into Insights • Insights into Action • Action into Impact</em></p>
 
