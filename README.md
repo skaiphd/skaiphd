@@ -1,5 +1,4 @@
-![logo](https://github.com/skaiphd/skaiphd/blob/main/Datascience_hub.PNG)
-<h1 align="center">Sanjay Kumar PhD</h1>
+<h1 align="center"> Sanjay Kumar, MBA, MS, PhD | Data Science Manager & AI Product Leader | Data Scientist | ML & GenAI Expert | LLMs | AI Agents | </h1>
 <h3 align="center"> Technical Product Manager |🎓Former Data Scientist | 📊 PhD in Engineering | 💻 Innovator in Data Science Solutions</h3>
 
 <p align="center">
