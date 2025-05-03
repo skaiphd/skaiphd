@@ -13,7 +13,7 @@
 ---
 
 ### 💡 About Me
-- 🧠 Results-driven Data Science Leader with 14+ years of experience delivering AI, ML, and Generative AI solutions that drive business value and operational efficiency. Proven track record in leading data science teams, building scalable AI/ML products, and aligning technical strategies with business goals. Deep expertise in statistical modeling, predictive analytics, AI governance, and MLOps. Published researcher with 16 peer-reviewed papers and 150+ Google Scholar citations. Passionate about translating complex technical solutions into measurable business outcomes.
+- Results-driven Data Science Leader with 14+ years of experience delivering AI, ML, and Generative AI solutions that drive business value and operational efficiency. Proven track record in leading data science teams, building scalable AI/ML products, and aligning technical strategies with business goals. Deep expertise in statistical modeling, predictive analytics, AI governance, and MLOps. Published researcher with 16 peer-reviewed papers and 150+ Google Scholar citations. Passionate about translating complex technical solutions into measurable business outcomes.
 
 ---
 
