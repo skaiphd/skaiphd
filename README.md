@@ -1,4 +1,5 @@
-<h1 align="center"> Sanjay Kumar PhD | Data Science Manager & AI Product Leader </h1>
+<h1 align="center">🚀 Sanjay Kumar, PhD | Data Science Manager • AI & GenAI Product Leader</h1>
+
 <p align="center">
     <a href="https://twitter.com/skaiphd" target="_blank">
         <img src="https://img.shields.io/twitter/follow/skaiphd?style=social" alt="Twitter Follow" />
@@ -7,17 +8,46 @@
 </p>
 
 <p align="center">
-    <em>"Turning Data into Insights, and Insights into Impact"</em>
+    <img src="https://raw.githubusercontent.com/skaiphd/skaiphd/main/banner.png" alt="Banner"/>
+</p>
+
+<p align="center"><em>Transforming Data into Insights • Insights into Action • Action into Impact</em></p>
+
+---
+
+## 🏅 Highlights
+
+<p align="center">
+    <img src="https://img.shields.io/badge/AI%20Product%20Leader-%23007ACC?style=for-the-badge" alt="AI Product Leader"/>
+    <img src="https://img.shields.io/badge/16%20Publications-%23FF9900?style=for-the-badge" alt="Publications"/>
+    <img src="https://img.shields.io/badge/150%2B%20Citations-%2331C48D?style=for-the-badge" alt="Citations"/>
+    <img src="https://img.shields.io/badge/MLOps%20Expert-%23FF4C4C?style=for-the-badge" alt="MLOps Expert"/>
+    <img src="https://img.shields.io/badge/Generative%20AI-%23a855f7?style=for-the-badge" alt="Generative AI"/>
 </p>
 
 ---
 
-### 💡 About Me
-- Results-driven Data Science Leader with 14+ years of experience delivering AI, ML, and Generative AI solutions that drive business value and operational efficiency. Proven track record in leading data science teams, building scalable AI/ML products, and aligning technical strategies with business goals. Deep expertise in statistical modeling, predictive analytics, AI governance, and MLOps. Published researcher with 16 peer-reviewed papers and 150+ Google Scholar citations. Passionate about translating complex technical solutions into measurable business outcomes.
+## 👤 About Me
+
+**Results-driven Data Science & AI Leader** with **14+ years** of experience turning complex data into actionable intelligence.  
+I specialize in architecting scalable **AI/ML** and **Generative AI** solutions that create measurable business value.
+
+**Expertise**  
+🔹 AI/ML Product Strategy & MLOps  
+🔹 Statistical Modeling & Predictive Analytics  
+🔹 AI Governance & Responsible AI  
+🔹 Cross-functional Team Leadership
+
+**Academic & Research**  
+🔎 Published **16 peer-reviewed papers** | **150+ Google Scholar citations**  
+🔎 Passionate about applying research to solve real-world business problems.
+
+**Mission:** Bridging the gap between deep tech and business outcomes.
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
+
 <p align="center">
     <a href="https://twitter.com/skaiphd" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -35,14 +65,16 @@
 
 ---
 
-### 📊 GitHub Activity Graph
+## 📊 GitHub Activity
+
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=skaiphd&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Sanjay Kumar's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=skaiphd&bg_color=0d1117&color=00b3ff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=skaiphd&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaiphd&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Top Languages" />
@@ -54,65 +86,38 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Technical Toolkit
+
 <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 ---
 
-### 🧩 Skill Graph
+## 🧠 Skill Graph
+
 ```mermaid
 graph TD;
-    Data-Scientist-->Flask;
-    Data-Scientist-->Django;
-    Data-Scientist-->PyTorch;
-    Data-Scientist-->Machine_Learning;
-    Data-Scientist-->Deep_Learning;
-    Data-Scientist-->Tensorflow;
-    Data-Scientist-->Streamlit;
-    Data-Scientist-->Spark;
-    Data-Scientist-->NLP;
-    Data-Scientist-->Computer_Vision;
-
+    Data_Scientist-->Flask;
+    Data_Scientist-->Django;
+    Data_Scientist-->PyTorch;
+    Data_Scientist-->TensorFlow;
+    Data_Scientist-->Machine_Learning;
+    Data_Scientist-->Deep_Learning;
+    Data_Scientist-->Streamlit;
+    Data_Scientist-->Spark;
+    Data_Scientist-->NLP;
+    Data_Scientist-->Computer_Vision;
+    Data_Scientist-->MLOps;
+    Data_Scientist-->AI_Product_Strategy;
