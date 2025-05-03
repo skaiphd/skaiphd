@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/skaiphd/skaiphd/main/banner.png" alt="Banner"/>
+    <img src="https://github.com/skaiphd/skaiphd/blob/main/image_1.png" alt="Banner"/>
 </p>
 
 <p align="center"><em>Transforming Data into Insights • Insights into Action • Action into Impact</em></p>
