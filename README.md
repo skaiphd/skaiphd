@@ -14,10 +14,6 @@
 
 ### 💡 About Me
 - 🧠 Results-driven Data Science Leader with 14+ years of experience delivering AI, ML, and Generative AI solutions that drive business value and operational efficiency. Proven track record in leading data science teams, building scalable AI/ML products, and aligning technical strategies with business goals. Deep expertise in statistical modeling, predictive analytics, AI governance, and MLOps. Published researcher with 16 peer-reviewed papers and 150+ Google Scholar citations. Passionate about translating complex technical solutions into measurable business outcomes.
-- ✍️ Possesses extensive research expertise in machine learning, demonstrated by over 100+ Google Scholar citations and 16 publications.
-- 🧠 Expertise in **Machine Learning | Deep Learning | NLP | Time Series | GenAI | LLMs**
-- ✍️ Writing at [Substack](https://skphd.substack.com/) about data science trends and innovations.
-- 📬 Reach me at **[sanjaykumarphd@outlook.com](mailto:sanjaykumarphd@outlook.com)**
 
 ---
 
