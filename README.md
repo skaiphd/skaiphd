@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sanjay Kumar, PhD | Data Science Manager • AI & GenAI Product Leader</h1>
+<h1 align="center">Sanjay Kumar, PhD | Data Science Manager • AI & GenAI Product Leader</h1>
 
 <p align="center">
     <a href="https://twitter.com/skaiphd" target="_blank">
