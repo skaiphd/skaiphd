@@ -15,10 +15,10 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/AI%20Product%20Leader-%23007ACC?style=for-the-badge" alt="AI Product Leader"/>
+    <img src="https://img.shields.io/badge/Generative%20AI-%23a855f7?style=for-the-badge" alt="Generative AI"/>
     <img src="https://img.shields.io/badge/16%20Publications-%23FF9900?style=for-the-badge" alt="Publications"/>
     <img src="https://img.shields.io/badge/150%2B%20Citations-%2331C48D?style=for-the-badge" alt="Citations"/>
     <img src="https://img.shields.io/badge/MLOps%20Expert-%23FF4C4C?style=for-the-badge" alt="MLOps Expert"/>
-    <img src="https://img.shields.io/badge/Generative%20AI-%23a855f7?style=for-the-badge" alt="Generative AI"/>
 </p>
 
 ---
